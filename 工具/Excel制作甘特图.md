@@ -21,7 +21,7 @@ Excel 2016
 
 1. 根据表格插入二维条形图
 
-![image](https://github.com/cug09evan/The-Way-of-Evan/blob/master/img/gantt/%E5%9B%BE1.png
+![image-20200803210431136](https://github.com/cug09evan/The-Way-of-Evan/blob/master/img/gantt/%E5%9B%BE1.png)
 
 2. 将二维条形图中添加数据
 
