@@ -19,9 +19,7 @@ Excel 2016
 
 # 详细过程    
 
-1. 根据表格插入二维条形图
-
-![https://s1.ax1x.com/2020/08/04/awFaSe.md.png](https://s1.ax1x.com/2020/08/04/awFaSe.md.png)
+1. 根据表格插入二维条形图![https://s1.ax1x.com/2020/08/04/awFaSe.md.png](https://s1.ax1x.com/2020/08/04/awFaSe.md.png)
 
 2. 将二维条形图中添加数据
 
@@ -51,4 +49,6 @@ Excel 2016
 
 ![https://s1.ax1x.com/2020/08/04/awFDeI.md.png](https://s1.ax1x.com/2020/08/04/awFDeI.md.png)
 
-8. 最后就可以通过修改进度百分比，来控制项目进度，其中最后一项的数字，必须是通过公式来计算的，Excel通过公式计算的方式为：输入=，然后选择计算所需数字框，输入运算符（+-*、/），再选择计算所需数字框，最后按下回车键，就是结果，然后下拉获取整个一列结果，详细视频可参考： https://www.bilibili.com/video/BV1wJ41137Gb?from=search&seid=5250417809215460498 
+
+
+最后就可以通过修改进度百分比，来控制项目进度，其中最后一项的数字，必须是通过公式来计算的，Excel通过公式计算的方式为：输入=，然后选择计算所需数字框，输入运算符（+-*、/），再选择计算所需数字框，最后按下回车键，就是结果，然后下拉获取整个一列结果，详细视频可参考： https://www.bilibili.com/video/BV1wJ41137Gb?from=search&seid=5250417809215460498 
